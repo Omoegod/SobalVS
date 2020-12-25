@@ -21,4 +21,4 @@ else:
 if a > 5 or b == 7 or c == 7:
     print('Действие № 6: ' + 'Петя')
 else:
-        pass
+    pass
