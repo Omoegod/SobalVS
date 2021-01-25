@@ -57,4 +57,3 @@ round_five = {	"1" : "\u2B1C\u2B1C\u2B1C",
 				"9" : "\u2B1C\u2B1C\u2B1C",
 				"0" : "\u2B1C\u2B1C\u2B1C",
 				":" : "      "}
-print("0")
