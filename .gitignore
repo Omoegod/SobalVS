@@ -1,6 +1,6 @@
 desktop.ini
 __pycache__
-.vsc
+.vscode
 calculatebmi.py
 clock.py
 digits.py
